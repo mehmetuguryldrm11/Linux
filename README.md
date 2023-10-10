@@ -1,4 +1,4 @@
-# Önemli Linux Komutları
+# Important Linux Commands
 
 ### File Commands
 #### File Administration
