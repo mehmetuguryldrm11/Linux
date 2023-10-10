@@ -21,7 +21,7 @@
 | `ln` | Creates an internal link from the sourcefile to the targetfile, under a different name |
 | `ln -s` | Creates a symbolic link |
 | `cd` | Changes the current directory. cd without any parameters changes to the user's home directory |
-| `cd..` | It is used to move from one directory to a higher directory |
+| `cd ..` | It is used to move from one directory to a higher directory |
 | `mkdir` | Creates a new directory |
 | `rmdir` | Deletes the specified directory, provided it is already empty |
 | `chown` | Transfers the ownership of a file to the user with the specified user name |
